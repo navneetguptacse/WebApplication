@@ -1,0 +1,38 @@
+a {
+    color: white;
+}
+
+a:hover {
+    color: black;
+}
+
+.jumbotron {
+    background-image: url('4.png');
+    background-size: cover;
+    background-position: top;
+    height: 500px;
+    background-color: #ffffff !important;
+}
+
+.jumbotron h1 {
+    color: #ffffff;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 30px;
+}
+
+.feature-box i {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+.feature-box {
+    color: #34a6fc;
+}
+
+footer > p{
+    margin-top: 1rem;
+}
